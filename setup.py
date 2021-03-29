@@ -9,4 +9,12 @@ setup(name='krosstrading',
       author_email='nnnlife@gmail.com',
       license='MIT',
       packages=['krosstrading'],
+      classifiers=[
+        'Development Status :: 1 - Planning',
+        'Environment :: Web Environment',
+        'Intended Audience :: Developers',
+        'License :: OSI Approved :: Apache Software License',
+        'Operating System :: OS Independent',
+        'Programming Language :: Python :: 3.8',
+      ],
       zip_fase=False)
